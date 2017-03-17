@@ -1,0 +1,6 @@
+koch_1111
+Mr. Observer
+2016
+1 & /rpod2/csa/CEMPrs/ppn_runs_local/ppn_run_0.2_1.0_0.1/ & 935 & 0.264487782551
+2 & /rpod2/csa/CEMPrs/ppn_runs_local/ppn_run_0.2_1.0_0.05/ & 935 & 0.273187730325
+3 & /rpod2/csa/CEMPrs/ppn_runs_local/ppn_run_0.2_1.0_0.2/ & 935 & 0.295006849456
